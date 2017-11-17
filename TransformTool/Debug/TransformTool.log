@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Common.props(144,5): warning MSB4211: プロパティ "WindowsTargetPlatformVersion" は初めて値に設定されますが、これは "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.Cpp.WindowsSDK.props (29,5)" で既に使用されています。
+cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  stdafx.cpp
+cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  AssemblyInfo.cpp
+AssemblyInfo.cpp(40): warning C4947: 'System::Security::Permissions::SecurityAction::RequestMinimum': 古い形式に設定されています。
+  AssemblyInfo.cpp(40): note: メッセージ: 'Assembly level declarative security is obsolete and is no longer enforced by the CLR by default. See http://go.microsoft.com/fwlink/?LinkID=155570 for more information.'
+  InputMarkWindow.cpp
+  TransformTool.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\include\yvals.h(484): warning STL4001: /clr:pure is deprecated and will be REMOVED.
+  コードを生成中...
+cl : コマンド ライン warning D9035: オプション 'clr:pure' の使用は現在推奨されていません。今後のバージョンからは削除されます。
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  TransformTool.vcxproj -> C:\Users\Terada\Desktop\大学\修士_寺田卓馬\DVD\03.Program\AFIMSystem (TransformTool)\Debug\TransformTool.exe
+  TransformTool.vcxproj -> C:\Users\Terada\Desktop\大学\修士_寺田卓馬\DVD\03.Program\AFIMSystem (TransformTool)\Debug\TransformTool.pdb (Full PDB)
